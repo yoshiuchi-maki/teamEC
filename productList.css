@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+table.product-list-table {
+	margin: 0 6%;
+}
+
+table.product-list-table td {
+	text-align: center;
+	font-size: 13px;
+	padding: 0 0 5% 0;
+}
+
+table.product-list-table img {
+	width: 40%;
+	padding: 3% 3%;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
